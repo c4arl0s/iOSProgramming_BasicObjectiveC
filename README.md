@@ -30,3 +30,8 @@
 33. [ ] 33. Bitwise Operations
 34. [x] [34. C Strings](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#34-c-strings)
 35. [x] [35. NSValue and NSNumber](https://github.com/c4arl0s/35-NSValue-and-NSNumber#34-nsvalue-and-nsnumber)
+
+# Additional topics
+
+1. [ ] [10 Objective-C features that are not in Swift](https://github.com/c4arl0s/Ten-Objective-C-Features-that-are-not-in-Swift#ten-objective-c-features-that-are-not-in-swift)
+2. [ ] [10 Swift features that are not in Objective-C](https://github.com/c4arl0s/Ten-Swfit-Features-that-are-not-in-Objective-C#ten-swfit-features-that-are-not-in-objective-c)
