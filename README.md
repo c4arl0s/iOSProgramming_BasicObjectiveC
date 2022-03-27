@@ -1,11 +1,3 @@
-1. [ ] You and This Book (Basic topic, is not available)
-2. [ ] Your first program (Basic topic, is not available)
-3. [ ] Variables and types (Basic topic, is not available)
-4. [ ] if/else (Basic topic, is not available)
-5. [ ] Functions (Basic topic, is not available)
-6. [ ] Numbers (Basic topic, is not available)
-7. [ ] Loops (Basic topic, is not available)
-
 # [go back to Overview](https://github.com/c4arl0s)
 
 # [iOSProgramming_BasicObjectiveC](https://github.com/c4arl0s/iOSProgramming_BasicObjectiveC#go-back-to-overview)
@@ -37,3 +29,4 @@
 32. [x] [32. Blocks](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#32-blocks)
 33. [ ] 33. Bitwise Operations
 34. [x] [34. C Strings](https://github.com/c4arl0s/iOSProgrammingBasicObjectiveCContentIndex#34-c-strings)
+35. [x] [35. NSValue and NSNumber](https://github.com/c4arl0s/35-NSValue-and-NSNumber#34-nsvalue-and-nsnumber)
