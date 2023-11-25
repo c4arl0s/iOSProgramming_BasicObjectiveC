@@ -73,3 +73,9 @@
 [submodule "35-NSValue-and-NSNumber"]
 	path = 35-NSValue-and-NSNumber
 	url = git@github.com:c4arl0s/35-NSValue-and-NSNumber.git
+[submodule "Ten-Objective-C-Features-that-are-not-in-Swift"]
+	path = Ten-Objective-C-Features-that-are-not-in-Swift
+	url = git@github.com:c4arl0s/Ten-Objective-C-Features-that-are-not-in-Swift.git
+[submodule "Ten-Swift-Features-that-are-not-in-Objective-C"]
+	path = Ten-Swift-Features-that-are-not-in-Objective-C
+	url = git@github.com:c4arl0s/Ten-Swift-Features-that-are-not-in-Objective-C.git
