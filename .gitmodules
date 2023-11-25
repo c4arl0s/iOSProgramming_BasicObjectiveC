@@ -1,0 +1,75 @@
+[submodule "8AddressesAndPointers-ObjectiveC"]
+	path = 8AddressesAndPointers-ObjectiveC
+	url = git@github.com:c4arl0s/8AddressesAndPointers-ObjectiveC.git
+[submodule "9PassByReference-ObjectiveC"]
+	path = 9PassByReference-ObjectiveC
+	url = git@github.com:c4arl0s/9PassByReference-ObjectiveC.git
+[submodule "10Structs-ObjectiveC"]
+	path = 10Structs-ObjectiveC
+	url = git@github.com:c4arl0s/10Structs-ObjectiveC.git
+[submodule "11TheHeap"]
+	path = 11TheHeap
+	url = git@github.com:c4arl0s/11TheHeap.git
+[submodule "12Objects-ObjectiveC"]
+	path = 12Objects-ObjectiveC
+	url = git@github.com:c4arl0s/12Objects-ObjectiveC.git
+[submodule "13MoreMessages-ObjectiveC"]
+	path = 13MoreMessages-ObjectiveC
+	url = git@github.com:c4arl0s/13MoreMessages-ObjectiveC.git
+[submodule "14NSString-ObjectiveC"]
+	path = 14NSString-ObjectiveC
+	url = git@github.com:c4arl0s/14NSString-ObjectiveC.git
+[submodule "15NSArray-ObjectiveC"]
+	path = 15NSArray-ObjectiveC
+	url = git@github.com:c4arl0s/15NSArray-ObjectiveC.git
+[submodule "17YourFirstClass-ObjectiveC"]
+	path = 17YourFirstClass-ObjectiveC
+	url = git@github.com:c4arl0s/17YourFirstClass-ObjectiveC.git
+[submodule "18Inheretence-ObjectiveC"]
+	path = 18Inheretence-ObjectiveC
+	url = git@github.com:c4arl0s/18Inheretence-ObjectiveC.git
+[submodule "19ObjectInstanceVariables-ObjectiveC"]
+	path = 19ObjectInstanceVariables-ObjectiveC
+	url = git@github.com:c4arl0s/19ObjectInstanceVariables-ObjectiveC.git
+[submodule "20PreventingMemoryLeaks-ObjectiveC"]
+	path = 20PreventingMemoryLeaks-ObjectiveC
+	url = git@github.com:c4arl0s/20PreventingMemoryLeaks-ObjectiveC.git
+[submodule "21CollectionClasses-ObjectiveC"]
+	path = 21CollectionClasses-ObjectiveC
+	url = git@github.com:c4arl0s/21CollectionClasses-ObjectiveC.git
+[submodule "23WritingFilesWithNSStringAndNSData-ObjectiveC"]
+	path = 23WritingFilesWithNSStringAndNSData-ObjectiveC
+	url = git@github.com:c4arl0s/23WritingFilesWithNSStringAndNSData-ObjectiveC.git
+[submodule "24Callbacks-ObjectiveC"]
+	path = 24Callbacks-ObjectiveC
+	url = git@github.com:c4arl0s/24Callbacks-ObjectiveC.git
+[submodule "25Protocols-ObjectiveC"]
+	path = 25Protocols-ObjectiveC
+	url = git@github.com:c4arl0s/25Protocols-ObjectiveC.git
+[submodule "26PropertyList-ObjectiveC"]
+	path = 26PropertyList-ObjectiveC
+	url = git@github.com:c4arl0s/26PropertyList-ObjectiveC.git
+[submodule "27YourFirstiOSApplication"]
+	path = 27YourFirstiOSApplication
+	url = git@github.com:c4arl0s/27YourFirstiOSApplication.git
+[submodule "28YourFirstCocoaApplication"]
+	path = 28YourFirstCocoaApplication
+	url = git@github.com:c4arl0s/28YourFirstCocoaApplication.git
+[submodule "29init-ObjectiveC"]
+	path = 29init-ObjectiveC
+	url = git@github.com:c4arl0s/29init-ObjectiveC.git
+[submodule "30Properties_ObjectiveC"]
+	path = 30Properties_ObjectiveC
+	url = git@github.com:c4arl0s/30Properties_ObjectiveC.git
+[submodule "31Categories-ObjectiveC"]
+	path = 31Categories-ObjectiveC
+	url = git@github.com:c4arl0s/31Categories-ObjectiveC.git
+[submodule "32Blocks-ObjectiveC"]
+	path = 32Blocks-ObjectiveC
+	url = git@github.com:c4arl0s/32Blocks-ObjectiveC.git
+[submodule "34_C_Strings_ObjectiveC"]
+	path = 34_C_Strings_ObjectiveC
+	url = git@github.com:c4arl0s/34_C_Strings_ObjectiveC.git
+[submodule "35-NSValue-and-NSNumber"]
+	path = 35-NSValue-and-NSNumber
+	url = git@github.com:c4arl0s/35-NSValue-and-NSNumber.git
